@@ -1,0 +1,36 @@
+:root {
+  --blue: #273FAD;
+  --green: #3FAD27;
+  --red: 	#F2055C;
+  --red-dark: 	#180000;
+  --background: #F6F6F6;
+  --shapes: #FFFFFF;
+  --text-title: #625F68;
+  --text: #2A282F;
+  --text-light: #A8A6AC;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat';
+  color: #121214;
+}
+
+input, textarea {
+  font-family: "Poppins";
+}
+
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 2.5rem 1rem;
+}
+
+button, .checkmark {
+  cursor: pointer;
+}
