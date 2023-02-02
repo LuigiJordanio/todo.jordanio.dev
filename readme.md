@@ -3,7 +3,7 @@
 </p>
 <h1>Repository Listing Project</h1>
 <p  align="center">
-    <a href="https://todojordanio.netlify.app/">
+    <a href="https://todojordanio.netlify.app/" target="_blank">
         <img  src="https://i.ibb.co/SvxQW6Z/todo.gif"  />
     </a>
 </p>
@@ -41,4 +41,4 @@
    <li>Visualizar a lista de tarefas concluídas e não concluídas</li>
 </ol>
 <h2>Demo</h2>
-<p>Para acessar a pagina demo basta acessar o link <a href="https://todojordanio.netlify.app/">https://todojordanio.netlify.app/</a></p>
+<p>Para acessar a pagina demo basta acessar o link <a href="https://todojordanio.netlify.app/" target="_blank">https://todojordanio.netlify.app/</a></p>
