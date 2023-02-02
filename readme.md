@@ -1,7 +1,7 @@
 <p  align="center">
    <img  src="https://i.ibb.co/SPGby68/jordanio.png"  />
 </p>
-<h1>Repository Listing Project</h1>
+<h1>Task List </h1>
 <p  align="center">
     <a href="https://todojordanio.netlify.app/" target="_blank">
         <img  src="https://i.ibb.co/SvxQW6Z/todo.gif"  />
