@@ -25,6 +25,7 @@
    <li><a href="https://www.npmjs.com/">NPM</a></li>
    <li><a href="https://pt-br.reactjs.org/">React Js</a></li>
    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+   <li><a href="https://www.netlify.com/">Netlify</a></li>
 </ul>
 <h2>Instalação</h2>
 <ol>
